@@ -2,7 +2,7 @@
 
 ## Todo list
 - [x] Add a 3D environment model, high-poly one
-- [ ] Render 3D environment model to a webview (file fbx)
+- [x] Render 3D model to a webview
 - [ ] Can control camera angle
 - [ ] Background eraser
 - [ ] Put background-erased photo to scene
